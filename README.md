@@ -6,4 +6,4 @@
 - React.js
 - Node.js
 
-This is a full-stack MERN application for [brief description]...
+This is a full-stack MERN application
