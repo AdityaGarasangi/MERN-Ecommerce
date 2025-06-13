@@ -2,7 +2,7 @@
 
 A full-stack e-commerce web application built using the MERN stack (MongoDB, Express.js, React, Node.js). This project allows users to browse products, register/login, add items to their cart, and place orders.
 
-## Features
+## Features:
 
 - User authentication (JWT-based)
 - Role-based access (admin and user)
@@ -13,7 +13,7 @@ A full-stack e-commerce web application built using the MERN stack (MongoDB, Exp
 - Responsive UI using Material UI
 - RESTful API backend with Express.js
 
-## Tech Stack
+## Tech Stack:
 
 - **Frontend:** React, Material UI, React Router, SWC
 - **Backend:** Node.js, Express.js
